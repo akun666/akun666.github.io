@@ -2,12 +2,12 @@
 title: Kunlin Wang
 SEOTitle: Kunlin Wang的博客 | Kunlin Wang
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: kunlinw@163.com
+description: "kunlin wang的博客"
+keyword: "kunlin wang, kunlin wang的博客, kunlinwang, 王坤林, Python blog"
+url: "http://akun666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/akun666/akun666.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
